@@ -21,6 +21,8 @@
   background-image: url("../src/back.jpg");
   color: white;
   text-align: start;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
 }
 .top h3 {
   padding-block: 10px;
